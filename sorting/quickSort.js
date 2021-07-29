@@ -86,3 +86,5 @@ function swap(arr, i, j) {
 let arr = [10, 80, 30, 90, 99, 87, 14, 35, 23, 44, 66, 77, 13, 456, 39]
 quickSort(arr, 0, arr.length - 1)
 console.log(arr)
+
+//time complexity - O(nlogn), in place..no extra space required

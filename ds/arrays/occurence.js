@@ -34,3 +34,5 @@ let k = 2
 console.log(count)
 binaryCount(arr, 0, arr.length - 1, k)
 console.log(count)
+
+//complexity - O(logn)
